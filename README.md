@@ -1,2 +1,21 @@
-# -mon-portfolio
- "Mon portfolio personnel créé avec HTML, CSS et déployé sur GitHub Pages"
+ # Mon Portfolio Personnel
+ Bienvenue sur mon portfolio ! Ce site présente mes projets et compétences
+ en développement web.
+ ## Technologies utilisées- HTML5- CSS3- Git & GitHub- GitHub Pages pour l’hébergement
+ ## Structure du projet
+ ‘‘‘
+ mon-portfolio/
+ index.html
+ styles.css
+ README.md
+ .gitignore
+ ‘‘‘
+ ## Déploiement
+ # Page principale
+ # Feuille de styles
+ # Ce fichier
+ # Fichiers à ignorer
+ Ce site est automatiquement déployé sur GitHub Pages à chaque push
+ sur la branche main.
+ ## Contact
+ N’hésitez pas à me contacter pour toute question ou opportunité !
